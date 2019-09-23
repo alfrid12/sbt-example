@@ -1,0 +1,21 @@
+exit
+compile
+ls
+~compile
+help
+tasks
+~run
+set ThisBuild / scalaVersion:= "2.12.7"
+scalaVersion
+ThisBuild
+session save
+set NextBuild / scalaVersion := "2.12.7"
+reload
+test
+~testQuick
+help
+help testQuick
+help test
+help testQuick
+~run
+exit
